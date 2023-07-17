@@ -1,0 +1,4 @@
+name: Helloplugin
+version: '${version}'
+main: me.fuzzie.helloplugin.Helloplugin
+
